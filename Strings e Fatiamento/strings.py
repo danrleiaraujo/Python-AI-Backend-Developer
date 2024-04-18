@@ -24,3 +24,4 @@ print(curso_centralizado)
 
 curso_pontilhado = ".".join(curso)
 print(curso_pontilhado)
+
